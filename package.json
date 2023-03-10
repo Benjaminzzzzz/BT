@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "ant-design-pro-scaffold2": "^2.3.1-11",
+    "berry-free-react-material-admin-template": "^1.0.0",
+    "canvasjs-react-charts": "^1.0.5",
+    "chart.js": "^4.2.1",
+    "nav": "^0.0.2",
+    "qrcode": "^1.5.1",
+    "react-bar-chart": "^0.1.2",
+    "react-chartjs-2": "^5.2.0",
+    "react-icons": "^4.7.1",
+    "react-minimal-pie-chart": "^8.4.0",
+    "react-navbar-dropdown": "^1.4.3",
+    "react-router-dom": "^6.8.0",
+    "uid": "^2.0.1",
+    "uuid": "^9.0.0",
+    "victory-bar": "^36.6.8",
+    "victory-chart": "^36.6.8",
+    "victory-pie": "^36.6.8"
+  }
+}
